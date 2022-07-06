@@ -6,7 +6,14 @@
 }
 
 body {
-  margin: 0% 10%;
+  /* Image */
+  background-image: url("https://img.freepik.com/free-photo/background-bamboo-surface-mat_1339-4952.jpg?w=1060&t=st=1657094098~exp=1657094698~hmac=78107738ab200060f2fed49b156fd34d5a2d2777479b2760d7376c4d761014d2");
+  /* Full height */
+  height: 100%;
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 h4 {
@@ -24,8 +31,3 @@ h3 {
 a {
   color: rgb(56, 56, 56);
 }
-
-/* .App {
-  font-family: sans-serif;
-  text-align: center;
-} */
